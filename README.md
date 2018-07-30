@@ -1,5 +1,5 @@
 # Targeted Attack and Security Enhancement on Texture Synthesis Based Steganography
-Created by [Hang Zhou](http://home.ustc.edu.cn/~zh2991/), [Kejiang Chen](http://home.ustc.edu.cn/~chenkj/), [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html), [Nenghai Yu](http://staff.ustc.edu.cn/~ynh/).
+Created by [Hang Zhou](http://home.ustc.edu.cn/~zh2991/), [Kejiang Chen](http://home.ustc.edu.cn/~chenkj/), [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html), [Zhenxing Qian](http://www.qianzhenxing.com/), [Nenghai Yu](http://staff.ustc.edu.cn/~ynh/).
 
 Introduction
 --
